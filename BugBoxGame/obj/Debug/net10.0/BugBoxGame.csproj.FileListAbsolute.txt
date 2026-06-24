@@ -1,0 +1,14 @@
+C:\Dev\BugBoxGame\BugBoxGame\bin\Debug\net10.0\BugBoxGame.exe
+C:\Dev\BugBoxGame\BugBoxGame\bin\Debug\net10.0\BugBoxGame.deps.json
+C:\Dev\BugBoxGame\BugBoxGame\bin\Debug\net10.0\BugBoxGame.runtimeconfig.json
+C:\Dev\BugBoxGame\BugBoxGame\bin\Debug\net10.0\BugBoxGame.dll
+C:\Dev\BugBoxGame\BugBoxGame\bin\Debug\net10.0\BugBoxGame.pdb
+C:\Dev\BugBoxGame\BugBoxGame\obj\Debug\net10.0\BugBoxGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\BugBoxGame\BugBoxGame\obj\Debug\net10.0\BugBoxGame.AssemblyInfoInputs.cache
+C:\Dev\BugBoxGame\BugBoxGame\obj\Debug\net10.0\BugBoxGame.AssemblyInfo.cs
+C:\Dev\BugBoxGame\BugBoxGame\obj\Debug\net10.0\BugBoxGame.csproj.CoreCompileInputs.cache
+C:\Dev\BugBoxGame\BugBoxGame\obj\Debug\net10.0\BugBoxGame.dll
+C:\Dev\BugBoxGame\BugBoxGame\obj\Debug\net10.0\refint\BugBoxGame.dll
+C:\Dev\BugBoxGame\BugBoxGame\obj\Debug\net10.0\BugBoxGame.pdb
+C:\Dev\BugBoxGame\BugBoxGame\obj\Debug\net10.0\BugBoxGame.genruntimeconfig.cache
+C:\Dev\BugBoxGame\BugBoxGame\obj\Debug\net10.0\ref\BugBoxGame.dll
